@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Shivam",
+        "scores": [91, 77, 99]
+    },
+    {
+        "name": "Rahul",
+        "scores": [85, 80, 90, 95]
+    },
+    {
+        "name": "Aman",
+        "scores": [55, 60, 58]
+    },
+    {
+        "name": "Bhavish Garg",
+        "scores": [98, 96, 100]
+    },
+    {
+        "name": "Sneha",
+        "scores": [72, 75, 70, 78]
+    }
+]
