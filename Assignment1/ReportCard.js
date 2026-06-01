@@ -88,7 +88,7 @@ function print(s1, cnt) {
 
 // Input
 const fs = require('fs');
-const data = fs.readFileSync('data.json', 'utf8');
+const data = fs.readFileSync('students.json', 'utf8');
 const students = JSON.parse(data);
 
 // print report
