@@ -48,15 +48,18 @@ Provides a simple web interface for uploading QR images and viewing attendance r
 
 Install all required packages:
 
+```bash
 npm install
+```
 ---
 
 ## Running the Project
 
 Start the server:
 
+```bash
 npm start
-
+```
 Open the following URL in a browser:
 ```text
 http://localhost:3000
