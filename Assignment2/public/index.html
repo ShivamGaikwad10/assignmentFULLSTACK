@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>QR Attendance System</title>
+</head>
+
+<body>
+
+    <h1>QR Attendance System</h1>
+
+    <form
+        action="/upload"
+        method="post"
+        enctype="multipart/form-data">
+
+        <input
+            type="file"
+            name="qrImage"
+            accept="image/*"
+            required>
+
+        <button type="submit">
+            Mark Attendance
+        </button>
+
+    </form>
+
+    <br>
+
+    <a href="/report">
+        View Attendance Report
+    </a>
+
+</body>
+
+</html>
